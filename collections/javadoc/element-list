@@ -1,0 +1,14 @@
+module:com.bytefacets.collections
+com.bytefacets.collections
+com.bytefacets.collections.arrays
+com.bytefacets.collections.bi
+com.bytefacets.collections.exception
+com.bytefacets.collections.functional
+com.bytefacets.collections.hash
+com.bytefacets.collections.heap
+com.bytefacets.collections.id
+com.bytefacets.collections.queue
+com.bytefacets.collections.sort
+com.bytefacets.collections.store
+com.bytefacets.collections.types
+com.bytefacets.collections.vector
